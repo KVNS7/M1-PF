@@ -1,3 +1,3 @@
 # TD de Programmation Fonctionnelle
-## MIAGE 2024/2025
+## M1 MIAGE APP - 2024/2025
 ### Kevin SOARES
