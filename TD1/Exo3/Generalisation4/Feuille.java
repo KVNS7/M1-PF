@@ -1,4 +1,6 @@
-package Exo2.Generalisation3;
+package Exo3.Generalisation4;
+
+import java.util.Set;
 
 public class Feuille<T extends Sommable<T>> implements Arbre<T> {
     private final T valeur;

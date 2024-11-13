@@ -1,4 +1,4 @@
-package Exo2.Generalisation3;
+package Exo3.Generalisation5;
 
 import java.util.Set;
 
@@ -7,4 +7,7 @@ public interface Arbre<T extends Sommable<T>> {
     boolean contient(final T val);
     Set<T> valeurs();
     T somme(); 
+    T min();
+    T max();
+    boolean estTrie();
 }

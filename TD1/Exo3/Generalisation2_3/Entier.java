@@ -1,4 +1,4 @@
-package Exo2.Generalisation3;
+package Exo3.Generalisation2_3;
 
 public class Entier implements Sommable<Entier> {
     private final int valeur;
@@ -8,7 +8,7 @@ public class Entier implements Sommable<Entier> {
     }
 
     @Override
-    public Entier somme(Entier autre) {
+    public Entier sommer(Entier autre) {
         return new Entier(this.valeur + autre.valeur);
     }
 

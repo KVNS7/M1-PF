@@ -1,4 +1,4 @@
-package Exo2.Generalisation1;
+package Exo3.Generalisation1;
 
 import java.util.HashSet;
 import java.util.Set;

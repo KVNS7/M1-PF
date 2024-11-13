@@ -1,4 +1,4 @@
-package Exo2.Generalisation3;
+package Exo3.Generalisation2_3;
 
 public class Chaine implements Sommable<Chaine> {
     private final String valeur;
@@ -8,7 +8,7 @@ public class Chaine implements Sommable<Chaine> {
     }
 
     @Override
-    public Chaine somme(Chaine autre) {
+    public Chaine sommer(Chaine autre) {
         return new Chaine(this.valeur + autre.valeur);
     }
 
