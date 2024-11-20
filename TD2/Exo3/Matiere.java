@@ -1,4 +1,4 @@
-package universite;
+package Exo3;
 
 public class Matiere {
     private String nom;

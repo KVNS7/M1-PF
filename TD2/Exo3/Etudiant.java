@@ -1,4 +1,5 @@
-package universite;
+
+package Exo3;
 
 import java.util.HashMap;
 import java.util.Map;
