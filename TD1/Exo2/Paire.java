@@ -1,4 +1,4 @@
-package Exo1;
+package Exo2;
 public class Paire <A, B> {
 
     private final A fst;
